@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "puppeteer module",
+  "main": "xs3_softwareLoadTest.js",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node xs3_softwareLoadTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://m.irimus@bach1.evva.com/bitbucket/scm/xsys/puppeteerscripts.git"
+  },
+  "author": "Michael Irimus",
+  "license": "ISC"
+}
